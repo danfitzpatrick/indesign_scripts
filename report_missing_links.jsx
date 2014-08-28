@@ -1,7 +1,7 @@
 /*
 
-I wrote (see functions at the bottom for credits to other authors' work) this script as a way of quickly opening up each 
-InDesign file in a folder and its subfolders, checking for missing links and then logging those missing
+I wrote (see functions at the bottom for credits to other authors' work) this script as a way of quickly opening
+up each InDesign file in a folder and its subfolders, checking for missing links and then logging those missing
 links to two files.
 
 The first log file itemizes what was found in each file, and the path where the missing link "should" be.
